@@ -1,0 +1,19 @@
+body{
+    color: white;
+    background: linear-gradient(#84ff88 25%, #dcf378 50%, #7484ee 75%, #452a65 100%);
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.heading
+{
+    background-image: -webkit-linear-gradient(45deg, hsl(63, 82%, 60%), hsl(243, 82%, 60%));
+    color: black;
+    width: 80%;
+}
+
+.container label,.container h3,.container b,.container p
+{
+    background-image: -webkit-linear-gradient(45deg, hsl(181, 92%, 50%),rgb(57, 171, 0));
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
